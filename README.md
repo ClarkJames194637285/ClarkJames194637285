@@ -21,7 +21,7 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
-    <img alt="Solidity" src="https://github.com/ClarkJames194637285/ClarkJames194637285/blob/main/icons/solidity.png" />
+    <img alt="Solidity" src="https://img.shields.io/badge/flat-solidity-4FC08D" />
   </a>
 </div>
 <div>
