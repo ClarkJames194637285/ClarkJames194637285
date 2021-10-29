@@ -1,6 +1,6 @@
-<h1>ご覧いただきありがとうございます！　🤗</h1>
+<h1>Hi！ Thank you for you visiting!🤗</h1>
 <p align="left">
-はじめまして! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  <br/>
+Nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  <br/>
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
 </p>
 
@@ -8,7 +8,7 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 
 
 
-<h2>Languages & Status</h2>
+<h2>Languages & Skill</h2>
 
 
 <p align="right">
@@ -51,11 +51,14 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   </a>
-  <a href="https://github.com/ClarkJames194637285">
+  <!-- <a href="https://github.com/ClarkJames194637285">
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
+  </a>
+  <a href="https://github.com/ClarkJames194637285">
+    <img alt="Nuxt.js" src="https://img.shields.io/badge/-Nuxt.js-00DC82?logo=nuxt.js&logoColor=white&style=flat" />
   </a>
 </div>
 <div>
@@ -104,9 +107,9 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/ClarkJames194637285">  
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/ClarkJames194637285">  
+  <!-- <a href="https://github.com/ClarkJames194637285">  
     <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" />
-  </a>
+  </a> -->
   <a href="https://github.com/ClarkJames194637285">  
     <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
   </a>
