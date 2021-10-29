@@ -1,6 +1,6 @@
-<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Full Stack & BlockChain developer.</h1>
+<h1>ご覧いただきありがとうございます！　🤗</h1>
 <p align="left">
-Nice to meet you! 🤗 <br/>
+はじめまして! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  <br/>
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
 </p>
 
@@ -70,9 +70,6 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   </a>
 </div>
 <div>
-  <a href="https://github.com/ClarkJames194637285">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-  </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
   </a>
