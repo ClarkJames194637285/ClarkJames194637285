@@ -1,4 +1,4 @@
-<h1>Hi! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Full Stack & BlockChain developer.</h1>
+<h1>Hi, <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I am Full Stack & BlockChain developer.</h1>
 <p align="left">
 Nice to meet you! 🤗 <br/>
 I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
@@ -16,32 +16,35 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 </p>
 
 
-<div>
+<!-- <div>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Solidity" src="https://img.shields.io/badge/flat-solidity-4FC08D" />
   </a>
-</div>
+</div> -->
 <div>
+  <a href="https://github.com/ClarkJames194637285">
+    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
-    <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-  </a>
-</div>
-<div>
-  <a href="https://github.com/ClarkJames194637285">
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat&logo=Node.js&logoColor=white" />
   </a>
+  <!-- <a href="https://github.com/ClarkJames194637285">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  </a> -->
+</div>
+<div>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
   </a>
@@ -54,17 +57,22 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D" />
   </a>
+</div>
+<div>
+  <a href="https://github.com/ClarkJames194637285">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  </a>
-  <a href="https://github.com/ClarkJames194637285">
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/Django-80a50e?style=flat&logoColor=white" />
   </a>
 </div>
 <div>
+  <a href="https://github.com/ClarkJames194637285">
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css3&logoColor=white" />
   </a>
