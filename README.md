@@ -1,7 +1,7 @@
 <h1>Hi！ Thank you for you visiting!🤗</h1>
 <p align="left">
 Nice to meet you! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">  <br/>
-I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEAN As Full-stack developer.
+I'm very familiar with WordPress・CMS,Laravel + Vue, Vue.js(Nuxt.js).
 </p>
 
 
@@ -63,13 +63,16 @@ I'm very familiar with BlockChain | DApp | Smart Contract | Web3.js | MERN | MEA
 </div>
 <div>
   <a href="https://github.com/ClarkJames194637285">
+    <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-21759B?logo=wordpress&logoColor=white&style=flat" />
+  </a>
+  <a href="https://github.com/ClarkJames194637285">
     <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
     <img alt="Express.js" src="https://img.shields.io/badge/Express.js-80a50e?style=flat&logoColor=white" />
   </a>
   <a href="https://github.com/ClarkJames194637285">
-    <img alt="Django" src="https://img.shields.io/badge/Django-80a50e?style=flat&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
   </a>
 </div>
 <div>
